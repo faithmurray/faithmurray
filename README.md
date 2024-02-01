@@ -1,9 +1,9 @@
-Hi, I'm Faith Murray 👋
-🎓 I'm a senior majoring in computer engineering at San Diego State
-🚀 Actively seeking internship and job opportunities in San Diego.
-🔧 Passionate about designing and building hardware components.
-👉 Connect with me on LinkedIn: www.linkedin.com/in/faith-murray-14740224b
-✉️ Reach out at fmurray6391@sdsu.edu
+- Hi, I'm Faith Murray 👋
+- 🎓 I'm a senior majoring in computer engineering at San Diego State
+- 🚀 Actively seeking internship and job opportunities in San Diego.
+- 🔧 Passionate about designing and building hardware components.
+- 👉 Connect with me on LinkedIn: www.linkedin.com/in/faith-murray-14740224b
+- ✉️ Reach out at fmurray6391@sdsu.edu
 
 <!--
 **faithmurray/faithmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
